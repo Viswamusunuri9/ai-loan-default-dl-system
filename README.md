@@ -56,6 +56,14 @@ This system predicts:
 
 ---
 
+## 📊 Model Performance
+
+- Accuracy: ~91%
+- Model: ANN (TensorFlow/Keras)
+- Evaluation includes threshold tuning for risk segmentation
+
+---
+
 ## 🖥️ Application Features
 
 - User-friendly UI using Streamlit
@@ -118,6 +126,15 @@ Handling imbalanced classification problems
 Deep learning for tabular data
 Model evaluation and threshold tuning
 Converting ML models into applications
+
+## 💼 Business Use Case
+
+This system can be used by:
+
+- Banks for loan approval decisions
+- Fintech platforms for risk scoring
+- Credit assessment systems
+
 
 👨‍💻 Author
 
